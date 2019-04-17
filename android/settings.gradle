@@ -1,0 +1,3 @@
+rootProject.name = 'the_official_yeetari_2335'
+
+include ':app'
